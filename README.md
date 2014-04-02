@@ -1,4 +1,4 @@
 test
 ====
 
-lerning git
+lerning github with svn
